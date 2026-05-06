@@ -6,6 +6,11 @@ This profile serves as a structured portfolio of my learning, technical notes, h
 
 My current focus is to build a strong technical foundation, gain hands-on experience with real-world security scenarios, and prepare for certifications such as eJPT and OSCP.
 
+## Goal
+
+Building practical cybersecurity skills with the long-term goal of providing security services to startups and companies.
+
+
 <!--
 **nihalrza-work/nihalrza-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

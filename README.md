@@ -1,27 +1,9 @@
 # Hi, I'm Nihal Raza
 
-I am a cybersecurity student focused on developing practical expertise in offensive security, web application security, Linux, networking, and Python.
+Offensive Security • Web Application Security • Linux • Python
 
-This profile serves as a structured portfolio of my learning, technical notes, hands-on labs, security writeups, and practical projects.
+I work on web application security and vulnerability research, analyzing how security weaknesses are introduced, identified, and exploited in real-world applications.
 
-My current focus is to build a strong technical foundation, gain hands-on experience with real-world security scenarios, and prepare for certifications such as eJPT and OSCP.
+Current work includes vulnerability analysis and security labs covering SQL injection, authentication flaws, access control issues, and basic network security using Burp Suite, Nmap, and Linux environments.
 
-## Goal
-
-Building practical cybersecurity skills with the long-term goal of providing security services to startups and companies.
-
-
-<!--
-**nihalrza-work/nihalrza-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is maintained as a technical portfolio of security labs, vulnerability writeups, research notes, and projects documenting reproducible analysis, technical investigation, and continuous development in application security and offensive security.

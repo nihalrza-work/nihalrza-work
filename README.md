@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td width="65%" valign="top">
-
 <h1 align="left">
 Hi, I'm Nihal Raza
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -17,13 +13,3 @@ I am currently working on <b><a href="https://github.com/nihalrza-work/security-
 <h3>About This GitHub</h3>
 
 **This GitHub serves as a technical portfolio of security labs, vulnerability write-ups, research notes, and projects documenting reproducible analysis, technical investigation, and continuous development in application security and offensive security.**
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="https://media.tenor.com/XMtE5JdBNHoAAAAM/tyler-durden.gif" width="300" >
-
-</td>
-</tr>
-</table>

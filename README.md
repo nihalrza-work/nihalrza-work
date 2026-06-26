@@ -1,9 +1,29 @@
-# Hi, I'm Nihal Raza
+<table>
+<tr>
+<td width="65%" valign="top">
 
-Offensive Security • Web Application Security • Linux • Python
+<h1 align="left">
+Hi, I'm Nihal Raza
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
-I work on web application security and vulnerability research, analyzing how security weaknesses are introduced, identified, and exploited in real-world applications.
+<i>Offensive Security • Web Application Security • Linux • Python</i>
 
-Current work includes vulnerability analysis and security labs covering SQL injection, authentication flaws, access control issues, and basic network security using Burp Suite, Nmap, and Linux environments.
+I work on web application security and vulnerability research, analyzing how security weaknesses are introduced, identified, and exploited in real-world applications. <br>
 
-This GitHub is maintained as a technical portfolio of security labs, vulnerability writeups, research notes, and projects documenting reproducible analysis, technical investigation, and continuous development in application security and offensive security.
+I am currently working on <b><a href="https://github.com/nihalrza-work/security-labs">Security Labs</a></b>, covering SQL injection, authentication flaws, access control issues, and basic network security using Burp Suite, Nmap, and Linux environments. <br><br>
+
+
+<h3>About This GitHub</h3>
+
+**This GitHub serves as a technical portfolio of security labs, vulnerability write-ups, research notes, and projects documenting reproducible analysis, technical investigation, and continuous development in application security and offensive security.**
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.tenor.com/XMtE5JdBNHoAAAAM/tyler-durden.gif" width="300" >
+
+</td>
+</tr>
+</table>

@@ -7,8 +7,6 @@ Hi, I'm Nihal Raza
 
 I work on web application security and vulnerability research, analyzing how security weaknesses are introduced, identified, and exploited in real-world applications. <br>
 
-I am currently working on <b><a href="https://github.com/nihalrza-work/security-labs">Security Labs</a></b>, covering SQL injection, authentication flaws, access control issues, and basic network security using Burp Suite, Nmap, and Linux environments. <br><br>
-
-<h3>About This GitHub</h3>
+I am currently working on <b><a href="https://github.com/nihalrza-work/security-labs">Security Labs</a></b>, covering SQL injection, authentication flaws, access control issues, and basic network security using Burp Suite, Nmap, and Linux environments. <br>
 
 **This GitHub serves as a technical portfolio of security labs, vulnerability write-ups, research notes, and projects documenting reproducible analysis, technical investigation, and continuous development in application security and offensive security.**
